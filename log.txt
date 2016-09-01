@@ -1,0 +1,24 @@
+request body = <TemplateSMS>
+                    <to>18938865247</to>
+                    <appId>8a216da8558264780155965a82ad10c6</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1234</data><data>10</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f89543781a5015437ece821012c/SMS/TemplateSMS?sig=54CFF7AC79C5F2F8643ACC68D363C2BB
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160628184932</dateCreated><smsMessageSid>49ec9d16eb8f43929ac5266a5b51eba9</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>18938865247</to>
+                    <appId>8a216da8558264780155965a82ad10c6</appId>
+                    <templateId>1</templateId>
+                    <datas><data>481203</data><data>10</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f89543781a5015437ece821012c/SMS/TemplateSMS?sig=A0B7404159D07CD7B8A19EFCF4FCDDB9
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160629095739</dateCreated><smsMessageSid>b5967adddfbf49fb9673b3326a0319b2</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>18938865247</to>
+                    <appId>8a216da8558264780155965a82ad10c6</appId>
+                    <templateId>1</templateId>
+                    <datas><data>709035</data><data>10</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f89543781a5015437ece821012c/SMS/TemplateSMS?sig=3CEA2995E7861D2A82127A9FEA9DFEE7
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160629100145</dateCreated><smsMessageSid>d74ca78cdaf34ade936977fc3575f67c</smsMessageSid></TemplateSMS></Response>
